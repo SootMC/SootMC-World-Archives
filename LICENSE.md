@@ -3,10 +3,7 @@
 [Source](https://github.com/philsturgeon/dbad)
 
 > Version 1.2, February 2021
- 
- Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 
-> DON'T BE A DICK PUBLIC LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
  1. Do whatever you like with the original work, just don't be a dick.
